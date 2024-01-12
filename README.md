@@ -7,7 +7,7 @@
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
 
-- 🌐 Web Development. I have a strong interest in web development and have worked on various web projects, including [mention any notable projects]. My skills include [mention relevant web technologies such as HTML, CSS, JavaScript, etc.], and I enjoy creating user-friendly and visually appealing web applications.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
 - 📚 I’m currently learning about Frontend and Backend technologies.
 - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
   
